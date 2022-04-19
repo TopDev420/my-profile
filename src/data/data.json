@@ -1,0 +1,200 @@
+{
+  "Header": {
+    "title": "Derek Huang",
+    "paragraph": "Senior Full-Stack Web and Blockchain Developer"
+  },
+  "About": {
+    "paragraph": "I'm 10+ years experienced Full-Stack/Blockchain Developer possessing demonstrated acumen in Blockchain based on ERC721a, ERC721, ERC1155 and Full-Stack development including software development, website, cloud-based servers, API development, API integration, etc. As a senior Full Stack Developer, I have hands-on experiences in designing, developing, and maintaining web and am adept at understanding clients' requirements and delivering projects accordingly. Highly skilled at collaborating with team members to deliver effective results within deadlines. Always put stress on quality, responsibility, communication, and efficiency when collaborating with clients. Graduated from the department of computer science at Nagoya University and was awarded a bachelor's degree in computer science",
+    "Why": [
+      "Offering premium service to my clients",
+      "Delivering high quality code",
+      "Always smashing deadlines",
+      "Good communication and hyper response"
+    ],
+    "Why2": ["Passionate and hard-working", "Supporting after release", "", ""]
+  },
+  "Gallery": [
+    {
+      "title": "Browsio",
+      "largeImage": "https://browsio.co.uk",
+      "smallImage": "img/portfolio/project1.png"
+    },
+    {
+      "title": "Moneyfarm",
+      "largeImage": "https://canada777.com",
+      "smallImage": "img/portfolio/project2.png"
+    },
+    {
+      "title": "Equiconx",
+      "largeImage": "https://www.equiconx.com/",
+      "smallImage": "img/portfolio/project3.png"
+    },
+    {
+      "title": "Auto by offer",
+      "largeImage": "https://www.autobyoffer.com/",
+      "smallImage": "img/portfolio/project4.png"
+    },
+    {
+      "title": "Flora hospitality",
+      "largeImage": "https://odineum.com/",
+      "smallImage": "img/portfolio/project5.png"
+    },
+    {
+      "title": "Field service crm",
+      "largeImage": "https://app.fieldservicecrm.com/",
+      "smallImage": "img/portfolio/project6.png"
+    },
+    {
+      "title": "Farhad exchange",
+      "largeImage": "https://pro.farhad-exchange.com/",
+      "smallImage": "img/portfolio/project7.png"
+    },
+    {
+      "title": "Cyphercity",
+      "largeImage": "https://cyphercity.io",
+      "smallImage": "img/portfolio/project8.png"
+    },
+    {
+      "title": "Lonely bear society",
+      "largeImage": "https://www.lonelybearsociety.com/",
+      "smallImage": "img/portfolio/project9.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-paper-plane",
+      "name": "Reliable and honest",
+      "text": "Can't acclimate with 99.9%, Only by sending 100% perfect project my Clients. Also never give up and constantly learn new skills and gather more knowledge to be the better version of myself."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Delivering High-Quality Result",
+      "text": "Well-structured / quality code that implements performant and maintainable design as clients' needs. Always smash deadlines"
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "name": "Communication and Working",
+      "text": "Advanced level of English, Hyper responsive and available M-F during normal business hours and offer quality products with rapid turnarounds"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/00.jpg",
+      "text": "\"Very friendly, hard-working and honest. Richard has been able to adapt our needs to the project we have set up. I am very satisfied with the result. Very grateful to Richard\"",
+      "name": "Javi R from Spain"
+    },
+    {
+      "img": "img/testimonials/00.jpg",
+      "text": "\"Excellent developer who delivers quality code. Easy to communicate with him and follows requirements exactly. He delivered project on time and with the features exactly as described. Would recommend to anyone looking for a top-quality developer\"",
+      "name": "Ticket S from United States"
+    },
+    {
+      "img": "img/testimonials/00.jpg",
+      "text": "\"Excellent skills, great communication, smashed deadlines and very responsive! Great experience working with Richard. Quick delivery and excellent quality of work!\"",
+      "name": "Garrett M from Canada"
+    },
+    {
+      "img": "img/testimonials/00.jpg",
+      "text": "\"Highly recommended, Did the job perfectly, thank you so much, will definitely hire him again.\"",
+      "name": "Mohamed I from United Arab Emirates"
+    },
+    {
+      "img": "img/testimonials/00.jpg",
+      "text": "\"Richard did a great job and would not stop until everything was exactly as in the job description. He delivered very quickly, responded instantly to feedback and gave excellent previews of work being done.\"",
+      "name": "Jacob from United States"
+    },
+    {
+      "img": "img/testimonials/00.jpg",
+      "text": "\"Very detailed in terms of making sure client's projects are fulfilled and working correctly. He met deadlines, Really easy to work with and I gladly recommend him to anyone looking for quality work, The best part about working with him was his customer service, He responds quickly, He was punctual, creative and hard-working, He's a great lovely peep to work with!\"",
+      "name": "Pode I from Romania"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": " 11030 W SANTA FE AVE. HESPERIA CA",
+    "phone": "+1 760 983 3557",
+    "email": "manikevin114@gmail.com",
+    "skype": "live:.cid.f18ea36cfe437e8c",
+    "discord": "GangDev#9569",
+    "telegram": "TopDev0420",
+    "github": "https://github.com/TopDev420"
+  },
+  "Features": [
+    {
+      "icon": "devicon-csharp-plain",
+      "title": "Programing Languages",
+      "text": "C, C++, C#, Java, JavaScript, PHP, Python, HTML/CSS, SQL"
+    },
+    {
+      "icon": "devicon-nodejs-plain",
+      "title": "Backend Skills",
+      "text": "Node, Express, Laravel, Django, GraphQL, dotNET"
+    },
+    {
+      "icon": "devicon-react-plain",
+      "title": "Frontend Skills",
+      "text": "React/Redux, React Hooks, React Saga, Vue/Vuex, Angular, Next, TypeScript, Web3, CSS, Jquery"
+    },
+    {
+      "icon": "devicon-android-plain",
+      "title": "Android Skills",
+      "text": "React Native, Ionic, Swift"
+    },
+    {
+      "icon": "devicon-rust-plain",
+      "title": "Blockchain Skills",
+      "text": "Smart contract with Solidity and Rust, DApp, DeFi project like yield farming, staking, LP tokens and Pooling Protocol, Layer2 tech, NFT based ERC721 & ERC1155"
+    },
+    {
+      "icon": "devicon-materialui-plain",
+      "title": "UI Library",
+      "text": "Material UI, Semantic UI, Chakra UI, Ant design, Vuetify, Bootstrap"
+    },
+    {
+      "icon": "devicon-mysql-plain",
+      "title": "DBMS",
+      "text": "MySQL, MsSQL, PostgreSQL, MongoDB, Firebase"
+    },
+    {
+      "icon": "devicon-amazonwebservices-original",
+      "title": "Devops",
+      "text": "AWS, Azure, Google Cloud Platform(GCP), Docker, Cpanel, Hostgater"
+    },
+    {
+      "icon": "fa fa-facebook",
+      "title": "API integrations",
+      "text": "Stripe, PayPal, Payment integration, Shopify API, Google Map, Calendar, Twilio, SendGrid, Zoom"
+    },
+    {
+      "icon": "devicon-linux-plain",
+      "title": "Operating Systems",
+      "text": "Windows, Ubuntu, Redhat"
+    },
+    {
+      "icon": "devicon-github-original",
+      "title": "VCS+Teamwork",
+      "text": "Github, Gitlab, Bitbucket"
+    }
+  ]
+}
